@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "version": 2,
+  "fish": [
+    {
+      "id": "kupfergrundel",
+      "name": "Kupfergrundel",
+      "rarity": "Selten",
+      "price": 520,
+      "income": 60,
+      "shape": "perch",
+      "colors": [
+        "#bd7958",
+        "#f4c987",
+        "#648b87"
+      ],
+      "discoveries": 0
+    },
+    {
+      "id": "sternflossen_guppy",
+      "name": "Sternflossen-Guppy",
+      "rarity": "Selten",
+      "price": 65,
+      "income": 18,
+      "shape": "fan",
+      "colors": [
+        "#8ee8e4",
+        "#ffe182",
+        "#5063aa"
+      ],
+      "discoveries": 0
+    }
+  ],
+  "plants": [
+    {
+      "id": "kupferfarn",
+      "name": "Kupferfarn",
+      "price": 420,
+      "limit": 2,
+      "form": "fern",
+      "colors": [
+        "#90714d",
+        "#e6bf83"
+      ],
+      "bonuses": {
+        "xp": 7,
+        "dirt": 3
+      }
+    }
+  ]
+}
